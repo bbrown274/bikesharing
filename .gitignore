@@ -1,0 +1,6 @@
+# Ignore the large data files.
+201908-citibike-tripdata.csv
+201908-citibike-tripdata_converted.csv
+
+# Jupyter Notebook
+.ipynb_checkpoints
